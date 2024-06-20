@@ -18,3 +18,18 @@
 //let isLoggedIn = "";
 //empty will give false value
 //same as converted to string also
+//******************************Operation******************** *
+//to add two string 
+
+example
+str3=str1+str2;
+
+console.log("1"+2);//o/p=>12
+console.log(1 + "2");//o/p=>12
+console.log("1"+2+2);//122
+console.log(1+2+"2");//32
+//so means it depends on 
+
+
+console.log(+true);//1 bad way to writw code
+console.log(true);//true

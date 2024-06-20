@@ -1,0 +1,26 @@
+// call by value and call by refrence categorization is done on the basis of how data is divided and accessed into memory 
+//#primitive dataypes(these ar call by value)
+//yaha changes copy me hote hai direct refrence nhi diya jata
+
+// 7 categories
+//string//Number
+//Boolean
+//NUll (empty) iska datattype using typeof gives"object"
+//Undefined
+//Symbol(used to make values unique)
+//BigInt( use n after the number)
+
+
+//Non- primitive
+//Refrence 
+//array
+//objects(curly braces ke andae like name age etc)
+//Functions
+//inn sabke return type using typeof function hota hai 
+//aur function ka object hai jisko hum object function bolte hai
+
+
+
+//javascript is a dynamically typed language as wev never define language in js 
+//ex const score = 100;
+// here we dont give any particular datatype to it it is taken dynamically
